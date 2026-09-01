@@ -34,17 +34,14 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielGilGut&show_icons=true&theme=default" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielGilGut" alt="Racha de contribuciones" />
 </p>
 
 ---
 
----
-
-<p align="center">
-  <i>[Frase o cita final opcional]</i>
-</p>
+### 📈 Actividad
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielGilGut/DanielGilGut/output/dist/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielGilGut/DanielGilGut/output/dist/github-snake.svg" /> <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/DanielGilGut/DanielGilGut/output/dist/github-snake.svg" /> </picture> <img width="100%" src="https://raw.githubusercontent.com/DanielGilGut/DanielGilGut/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuciones 3D" />
